@@ -1,20 +1,23 @@
 ### Welcome 👋
 
 <p align="left">
-  <a href="https://github.com/cha-mic/yutkat/">
+  <a href="https://github.com/cha-mic/cha-mic/">
     <img src="https://komarev.com/ghpvc/?username=cha-mic" alt="cha-mic" />
   </a>
   <a href="http://twitter.com/O_micim_O">
-    <img height="20" src="https://img.shields.io/twitter/follow/cha-mic?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/O_micim_O?label=Twitter&logo=twitter&style=flat" />
   </a>
-</p>
-<p align="left">
-  <a href="https://twitter.com/O_micim_O">
-    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  <a href="https://github.com/cha-mic">
+    <img height="20" src="https://img.shields.io/github/followers/cha-mic?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-mic&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Plofile
+- Hometown : Osaka
+- Organization : 
+- Ex-organization : 大阪大学Robohan
 
 <!--
 **cha-mic/cha-mic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
