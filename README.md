@@ -7,6 +7,9 @@
   <a href="http://twitter.com/O_micim_O">
     <img height="20" src="https://img.shields.io/twitter/follow/cha-mic?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="https://twitter.com/O_micim_O">
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  </a>
 </p>
 
 <!--
