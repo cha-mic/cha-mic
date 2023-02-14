@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/cha-mic/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=cha-mic" alt="cha-mic" />
+  </a>
+  <a href="http://twitter.com/O_micim_O">
+    <img height="20" src="https://img.shields.io/twitter/follow/cha-mic?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
 <!--
 **cha-mic/cha-mic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
