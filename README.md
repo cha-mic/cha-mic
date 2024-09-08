@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cha-mic&layout=compact)](https://github.com/cha-mic/github-readme-stats)
 
-### Plofile
+### Profile
 - Hometown : Osaka
 - Organization : 大阪大学大学院 [原田研究室](https://www.roboticmanipulation.org/)
 - Ex-organization : 大阪大学Robohan, 大阪大学 [旧細田研究室](https://www-arl.sys.es.osaka-u.ac.jp/site/)
